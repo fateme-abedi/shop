@@ -1,0 +1,11 @@
+/* No CSS *//*# sourceMappingURL=Footer.module.css.map */
+.footer {
+    background-color:rgb(90, 2, 98);
+    color: #fff;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+    
+  }
